@@ -1,0 +1,8 @@
+{
+  "google_credentials_file": "google-service-account.json",
+  "sheets": [
+    {"type": "volunteer", "spreadsheet_id": "", "range": "Form Responses 1!A:Z"},
+    {"type": "beneficiary", "spreadsheet_id": "", "range": "Form Responses 1!A:Z"},
+    {"type": "donor", "spreadsheet_id": "", "range": "Form Responses 1!A:Z"}
+  ]
+}
